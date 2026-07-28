@@ -2,7 +2,7 @@ lazy_static::lazy_static! {
 pub static ref T: std::collections::HashMap<&'static str, &'static str> =
     [
         ("Status", "Estado"),
-        ("Your Desktop", "Tu escritorio"),
+        ("Your Desktop", "ITC Soporte Remoto"),
         ("desk_tip", "Puedes acceder a tu escritorio con esta ID y contraseña."),
         ("Password", "Contraseña"),
         ("Ready", "Listo"),
@@ -383,7 +383,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("xdp-portal-unavailable", "Error en la captura de pantalla de Wayland. Es posible que el XDG Desktop Portal se haya bloqueado o no esté disponible. Intente reiniciarlo con `systemctl --user restart xdg-desktop-portal`."),
         ("JumpLink", "Ver"),
         ("Please Select the screen to be shared(Operate on the peer side).", "Seleccione la pantalla que se compartirá (Operar en el lado del par)."),
-        ("Show RustDesk", "Mostrar RustDesk"),
+        ("Show RustDesk", "Mostrar ITC Soporte Remoto"),
         ("This PC", "Este PC"),
         ("or", "o"),
         ("Elevate", "Elevar privilegios"),
@@ -626,7 +626,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("enable-bot-desc", "1, Abre un chat con @BotFather.\n2, Envía el comando \"/newbot\". Recibirás un token tras completar esta paso.\n3, Inicia un chat con tu bot recién creado. Envía un mensaje que comience con una barra (\"/\") como \"/hola\" para activarlo.\n"),
         ("cancel-2fa-confirm-tip", "¿Seguro que quieres cancelar 2FA?"),
         ("cancel-bot-confirm-tip", "¿Seguro que quieres cancelar el bot de Telegram?"),
-        ("About RustDesk", "Acerca de RustDesk"),
+        ("About RustDesk", "Acerca de ITC Soporte Remoto"),
         ("Send clipboard keystrokes", "Enviar pulsaciones de teclas"),
         ("network_error_tip", "Por fvor, comprueba tu conexión de red e inténtalo de nuevo."),
         ("Unlock with PIN", "Desbloquear con PIN"),
